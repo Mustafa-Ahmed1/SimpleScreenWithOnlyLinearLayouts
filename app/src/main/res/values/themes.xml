@@ -1,0 +1,42 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Week5TaskTheChance2022" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/dark_blue</item>
+        <item name="colorPrimaryVariant">@color/dark_blue</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">@color/dark_blue</item>
+    </style>
+
+    <style name="roundedImage">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">8dp</item>
+    </style>
+
+    <style name="RegularText">
+        <item name="android:textSize">@dimen/mediumFontSize</item>
+        <item name="android:fontFamily">@font/dm_sans_regular</item>
+    </style>
+    <style name="RegularText.Black">
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="RegularText.LightBlue">
+        <item name="android:textColor">@color/dark_blue_38_opacity</item>
+    </style>
+    <style name="RegularText.White">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="MediumText">
+        <item name="android:textSize">@dimen/mediumFontSize</item>
+        <item name="android:fontFamily">@font/dm_sans_medium</item>
+    </style>
+    <style name="MediumText.Black">
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="MediumText.Blue">
+        <item name="android:textColor">@color/dark_blue_87_opacity</item>
+    </style>
+
+</resources>

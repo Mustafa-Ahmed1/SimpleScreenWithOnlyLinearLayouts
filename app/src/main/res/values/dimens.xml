@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Padding and margin scales. -->
+    <dimen name="largeScale">16dp</dimen>
+    <dimen name="mediumScale">12dp</dimen>
+    <dimen name="minorScale">9dp</dimen>
+    <dimen name="smallScale">8dp</dimen>
+    <dimen name="teenyScale">4dp</dimen>
+    <!-- Font scales. -->
+    <dimen name="largeFontSize">16sp</dimen>
+    <dimen name="minorFontSize">13sp</dimen>
+    <dimen name="mediumFontSize">12sp</dimen>
+    <!-- Image scales. -->
+    <dimen name="profilePictureScale">93dp</dimen>
+</resources>

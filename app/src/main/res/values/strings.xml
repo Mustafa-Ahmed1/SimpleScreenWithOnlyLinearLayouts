@@ -1,0 +1,11 @@
+<resources>
+    <string name="appName">Week 5 Task - The Chance 2022</string>
+    <string name="personName">Ahmed hassan</string>
+    <string name="speciality">Engineer</string>
+    <string name="location">UK</string>
+    <string name="reviewsCount">(150 Reviews)</string>
+    <string name="rating">4.5</string>
+    <string name="country">Russian</string>
+    <string name="remainingTime">3 hr</string>
+    <string name="publishTime">5 Days ago</string>
+</resources>
